@@ -7,7 +7,7 @@ export const App = () => {
         height: 'auto',
         display: 'flex',
         justifyContent: 'center',
-        alignItems: 'center',
+        alignItems:'center',
         fontSize: 40,
         color: '#010101',
         backgroundColor:'lightgray',
